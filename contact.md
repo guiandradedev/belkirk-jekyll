@@ -13,8 +13,6 @@ menu:
 ---
 ## Horário de funcionamento:
 
-Belkirk College of Engineering is available:
-
 * **Segunda-Sexta**, 8:00am às 6:00pm
 * **Sábados**, 8:00am às 12:00pm
 
