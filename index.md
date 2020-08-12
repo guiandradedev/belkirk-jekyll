@@ -1,8 +1,8 @@
 ---
-title: Que tal amplificar sua produção?
+title: Home
 banner_image: ''
 layout: landing-page
-heading: Belkirk College
+heading: Que tal amplificar sua produção?
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
