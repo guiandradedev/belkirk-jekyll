@@ -28,21 +28,15 @@ The portable EEG montoring device (PEMD) is a combination platform of a head-mou
 
 The EEG is monitored and recorded using a series of electrodes built into the head-mounted system. The recordings are processed by a microprocessor from analog to digital format, and then sent to the portable terminal via bluetooth.
 
-## Practical Applications
+## Equipe
 
-* Ambulatory Care
-* Automated response for solitary patients
-* Long-term data collection and analysis
-
-## Team
-
-### Staff
-
-* [Kellie Brewer](/belkirk-jekyll-demo/about/kellie-brewer/)
-* [Mary Anne Macswain](/belkirk-jekyll-demo/about/mary-ann-macswain/)
-
-### Students
+### Engenheiros
 
 * Andrew Convington
 * Mark Bradbury
 * Ashley O'Brien
+
+### Técnicos
+
+* Andrew Convington
+* Mark Bradbury
