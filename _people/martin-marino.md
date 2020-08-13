@@ -5,7 +5,7 @@ role:
 - advisor
 - board
 sub_heading: Engenheiro eletricista
-thumbnail: "/uploads/2017/11/14/joseph-gonzalez-399972.jpg"
+thumbnail: "/uploads/2020/08/13/048-josias-005.JPG"
 email: martin@belkirkcollege.com
 linkedin: ''
 layout: person
