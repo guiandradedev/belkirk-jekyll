@@ -6,7 +6,7 @@ heading: Sobre nós
 sub_heading: Ora et Labora
 layout: landing-page
 textline: |-
-  Oferecemos soluções personalizadas e de alta qualidade para a realidade industrial de pequenas e médias empresas. Nossa missão é atender bem!
+  Oferecemos soluções personalizadas e de alta qualidade para a realidade industrial de pequenas e médias empresas. Nossa missão é atender com qualidade e agilidade!
 
   Trabalhamos com fabricação e adequação de máquinas, sistemas mecânicos e peças, dimensionamento e usinagem de componentes de precisão, consultoria em melhoramento de processos e desenvolvimento de projetos de automação e indústria 4.0.
 
