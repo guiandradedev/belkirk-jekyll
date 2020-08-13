@@ -20,6 +20,8 @@ Epilepsy is a brain disorder that affects millions of North Americans. Character
 
 Epileptic episodes are very hard to predict, and virtually impossible to accurately record outside of a clinical environment. This project aims to provide a portable device that can be used to measure EEG (electroencephalography) outside of the clinical environment.
 
+![](/uploads/2020/08/13/cortadora-de-arames.JPG)
+
 ## Design
 
 The portable EEG montoring device (PEMD) is a combination platform of a head-mounted recording system and a portable terminal to be installed on any device running the Android operating system.
