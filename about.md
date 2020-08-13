@@ -18,7 +18,7 @@ services:
 - heading: Missão
   description: Superar as expectativas do cliente, oferecendo produtos de qualidade
     e atendimento personalizado
-  icon: ''
+  icon: "/uploads/2020/08/13/mission.png"
 menu:
   footer:
     identifier: _about
