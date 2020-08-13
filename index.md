@@ -6,6 +6,9 @@ heading: Que tal amplificar sua produção?
 partners:
 - "/uploads/2020/08/13/atlas.png"
 services:
+- heading: Projeto e fabricação de gabaritos
+  description: ''
+  icon: ''
 - heading: Painéis elétricos
   description: ''
   icon: ''
