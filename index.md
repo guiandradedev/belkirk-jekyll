@@ -18,8 +18,7 @@ services:
 - description: Máquinas, gabaritos e componentes
   heading: Projeto & Fabricação
   icon: "/uploads/2020/08/13/robot.png"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
+- description: Tornos, fresadoras, mandrilhadoras, furadeiras para usinagem de precisão
   heading: Usinagem
   icon: "/uploads/2020/08/13/lathe-machine.png"
 sub_heading: Entre em contato conosco!
