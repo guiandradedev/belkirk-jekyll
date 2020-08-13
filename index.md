@@ -6,6 +6,9 @@ heading: Que tal amplificar sua produção?
 partners:
 - "/uploads/2020/08/13/atlas.png"
 services:
+- heading: Indústria 4.0
+  description: ''
+  icon: ''
 - heading: Consultoria para melhoria de processos
   description: ''
   icon: ''
