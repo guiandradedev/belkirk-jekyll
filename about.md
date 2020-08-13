@@ -5,8 +5,12 @@ banner_image: ''
 heading: Sobre nós
 sub_heading: Ora et Labora
 layout: landing-page
-textline: A multidisciplinary centre of experts who are essential to patient-oriented
-  research.
+textline: |-
+  Oferecemos soluções personalizadas e de alta qualidade para a realidade industrial de pequenas e médias empresas. Nossa missão é atender bem!
+
+  Trabalhamos com fabricação e adequação de máquinas, sistemas mecânicos e peças, dimensionamento e usinagem de componentes de precisão, consultoria em melhoramento de processos e desenvolvimento de projetos de automação e indústria 4.0.
+
+  Se sua empresa deseja o melhor atendimento e qualidade de produto, então somos o parceiro ideal para você!
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
 menu:
