@@ -21,7 +21,7 @@ services:
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
   heading: Usinagem
-  icon: "/uploads/2017/11/13/biotech.png"
+  icon: "/uploads/2020/08/13/lathe-machine.png"
 sub_heading: Entre em contato conosco!
 textline: ''
 hero_button:
