@@ -17,5 +17,3 @@ menu:
 * **Sábados**, 8:00am às 12:00pm
 
 ## Informações de contato
-
-{% include address.html %}
