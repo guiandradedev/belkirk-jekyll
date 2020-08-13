@@ -4,7 +4,7 @@ banner_image: ''
 layout: landing-page
 heading: Que tal amplificar sua produção?
 partners:
-- "/uploads/2020/08/13/fersul.png"
+- "/uploads/2020/08/13/fersul-1.png"
 - "/uploads/2020/08/13/41688270_1808364255868165_1469699248474816512_n.png"
 - "/uploads/2020/08/13/zincar.png"
 services:
