@@ -14,7 +14,7 @@ services:
   icon: "/uploads/2020/08/13/weight.png"
 - heading: Painéis elétricos
   description: ''
-  icon: ''
+  icon: "/uploads/2020/08/13/electrical-panel.png"
 - description: Máquinas, gabaritos e componentes
   heading: Projeto e Fabricação
   icon: "/uploads/2020/08/13/manipulator.png"
