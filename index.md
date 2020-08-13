@@ -16,8 +16,8 @@ services:
   description: ''
   icon: "/uploads/2020/08/13/electrical-panel.png"
 - description: Máquinas, gabaritos e componentes
-  heading: Projeto e Fabricação
-  icon: "/uploads/2020/08/13/manipulator.png"
+  heading: Projeto & Fabricação
+  icon: "/uploads/2020/08/13/robot.png"
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
   heading: Usinagem
