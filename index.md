@@ -4,9 +4,7 @@ banner_image: "/uploads/2020/08/13/corte-esi-menor.jpg"
 layout: landing-page
 heading: Dedicação, qualidade e bom atendimento são a nossa marca.
 partners:
-- "/uploads/2020/08/13/41688270_1808364255868165_1469699248474816512_n.png"
 - "/uploads/2020/08/13/zincar.png"
-- "/uploads/2020/08/13/fersul-1.png"
 services:
 - heading: Indústria 4.0
   description: Tecnologia de ponta para gestão da produção
