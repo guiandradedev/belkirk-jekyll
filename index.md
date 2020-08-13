@@ -9,8 +9,9 @@ services:
 - heading: Indústria 4.0
   description: Tecnologia de ponta para gestão da produção
   icon: "/uploads/2020/08/13/robot-1.png"
-- heading: Consultoria para melhoria de processos
-  description: ''
+- heading: Melhoria de processos
+  description: Consultoria com profissionais experientes e certificados em Lean Six
+    Sigma
   icon: "/uploads/2020/08/13/weight.png"
 - heading: Instalações elétricas
   description: Painéis elétricos industriais
