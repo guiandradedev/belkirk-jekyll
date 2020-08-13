@@ -7,6 +7,10 @@ publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
 sub_heading: Vem falar com a gente!
 services:
+- heading: Visão
+  description: Ser a maior e melhor empresa de soluções industriais do sudoeste do
+    PR e oeste de SC
+  icon: ''
 - heading: Missão
   icon: ''
   description: Superar as expectativas do cliente, oferecendo produtos de qualidade
