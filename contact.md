@@ -2,10 +2,10 @@
 title: Contato
 date: '2017-11-01T03:00:00.000+00:00'
 banner_image: ''
-heading: Contate-nos
+heading: Vem falar com a gente!
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
-sub_heading: tt
+sub_heading: Vem falar com a gente!
 menu:
   navigation:
     identifier: _contact
