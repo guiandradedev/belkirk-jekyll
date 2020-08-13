@@ -17,8 +17,8 @@ services:
   icon: ''
 - description: Performing collaborative research and providing services to support
     the Health Sector.
-  heading: Projeto e fabricação de máquinas
-  icon: "/uploads/2020/08/13/box.png"
+  heading: Projeto e fabricação de máquinas e componentes
+  icon: ''
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
   heading: Usinagem de precisão
