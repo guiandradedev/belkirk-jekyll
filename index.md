@@ -12,8 +12,8 @@ services:
 - heading: Consultoria para melhoria de processos
   description: ''
   icon: "/uploads/2020/08/13/weight.png"
-- heading: Painéis elétricos
-  description: ''
+- heading: Instalações elétricas
+  description: Painéis elétricos industriais
   icon: "/uploads/2020/08/13/electrical-panel.png"
 - description: Máquinas, gabaritos e componentes
   heading: Projeto & Fabricação
