@@ -21,7 +21,7 @@ services:
 - description: Máquinas, gabaritos e componentes
   heading: Projeto & Fabricação
   icon: "/uploads/2020/08/13/robot.png"
-- description: Tornos, fresadoras, mandrilhadoras, furadeiras para usinagem de precisão
+- description: Tornos e fresadoras com funcionários capacitados para usinagem de precisão
   heading: Usinagem
   icon: "/uploads/2020/08/13/lathe-machine.png"
 sub_heading: Quer aumentar sua produtividade? Solicite um orçamento!
