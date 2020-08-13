@@ -1,6 +1,6 @@
 ---
 title: Início
-banner_image: "/uploads/2020/08/13/corte-esi.jpg"
+banner_image: "/uploads/2020/08/13/corte-esi-menor.jpg"
 layout: landing-page
 heading: Dedicação, qualidade e bom atendimento são a nossa marca.
 partners:
