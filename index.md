@@ -15,9 +15,8 @@ services:
 - heading: Painéis elétricos
   description: ''
   icon: ''
-- description: Performing collaborative research and providing services to support
-    the Health Sector.
-  heading: Projeto e fabricação de máquinas, gabaritos e componentes
+- description: Máquinas, gabaritos e componentes
+  heading: Projeto e Fabricação
   icon: "/uploads/2020/08/13/manipulator.png"
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
