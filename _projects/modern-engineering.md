@@ -16,8 +16,11 @@ slug: ''
 
 Resident Professors Murphy Tiernan and Kelly Brewer have collaborated over the last 3 years with leading professionals in the continental US to develop a modern curriculum for Engineering students.
 
+![](/uploads/2020/08/13/instalacao-de-maquina-copia.jpeg)
+
+![](/uploads/2020/08/13/soldagem-esi.jpeg)
+
 ## Editions
 
 * Edition One - 2016
-
 * Edition Two - 2017
