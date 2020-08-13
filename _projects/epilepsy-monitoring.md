@@ -3,7 +3,7 @@ title: Cortadora de arame
 date: '2016-04-20T00:00:00.000+00:00'
 categories: []
 description: A portable device for epileptic patients.
-banner_image: "/uploads/2020/08/13/cortadora-de-arames-copia.JPG"
+banner_image: ''
 sub_heading: A post-modern taking on Engineering in the Digital World
 tags:
 - engineering
@@ -25,8 +25,6 @@ Epileptic episodes are very hard to predict, and virtually impossible to accurat
 The portable EEG montoring device (PEMD) is a combination platform of a head-mounted recording system and a portable terminal to be installed on any device running the Android operating system.
 
 The EEG is monitored and recorded using a series of electrodes built into the head-mounted system. The recordings are processed by a microprocessor from analog to digital format, and then sent to the portable terminal via bluetooth.
-
-![](/uploads/2020/08/13/cortadora-de-arames.jpeg)
 
 ## Practical Applications
 
