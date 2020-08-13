@@ -6,6 +6,11 @@ heading: Vem falar com a gente!
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
 sub_heading: Vem falar com a gente!
+services:
+- heading: Missão
+  icon: ''
+  description: Superar as expectativas do cliente, oferecendo produtos de qualidade
+    e atendimento personalizado
 menu:
   navigation:
     identifier: _contact
