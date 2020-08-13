@@ -4,7 +4,8 @@ banner_image: ''
 layout: landing-page
 heading: Que tal amplificar sua produção?
 partners:
-- "/uploads/2020/08/13/atlas.png"
+- "/uploads/2020/08/13/41688270_1808364255868165_1469699248474816512_n.png"
+- "/uploads/2020/08/13/zincar.png"
 services:
 - heading: Indústria 4.0
   description: Tecnologia de ponta para gestão da produção
@@ -27,7 +28,7 @@ textline: ''
 hero_button:
   text: Saiba mais
   href: "/about"
-show_news: true
+show_news: false
 show_staff: false
 menu:
   navigation:
