@@ -11,3 +11,4 @@ linkedin: https://www.linkedin.com/in/josias-de-bairros
 layout: person
 
 ---
+Graduado na UTFPR, trabalha na indústria com atuação em acionamentos elétricos e automação industrial, com ênfase em fabricação de máquinas e desenvolvimento de projetos elétricos.
