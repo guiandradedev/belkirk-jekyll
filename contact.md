@@ -12,10 +12,15 @@ menu:
     weight: 4
 
 ---
-## Horários:
+## Horário:
 
 * **Segunda-Sexta**, 8:00am às 6:00pm
 * **Sábados**, 8:00am às 6:00pm
-* **Domingos e Feriados**, 8:00am às 6:00pm (atendimento emergencial)
+* **Domingos e Feriados**, 8:00am às 12:00pm (atendimento emergencial)
 
-## Telefones:
+## Contato:
+
+* **Orçamentos:**  esisolucoesindustriais@gmail.com
+* **Suprimentos:** suprimentosesi@gmail.com
+* (46) 99913-6201 - Marcos de Carli
+* (46) 99112-3769 - Guilherme Andrade
