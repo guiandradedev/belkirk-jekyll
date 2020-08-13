@@ -27,8 +27,8 @@ services:
 sub_heading: Quer aumentar sua produtividade? Solicite um orçamento!
 textline: ''
 hero_button:
-  text: Saiba mais
-  href: "/about"
+  text: Entrar em contato
+  href: "/contact"
 show_news: true
 show_staff: false
 menu:
