@@ -7,7 +7,7 @@ partners:
 - "/uploads/2020/08/13/atlas.png"
 services:
 - heading: Indústria 4.0
-  description: ''
+  description: Tecnologia de ponta para gestão da produção
   icon: "/uploads/2020/08/13/robot-1.png"
 - heading: Consultoria para melhoria de processos
   description: ''
