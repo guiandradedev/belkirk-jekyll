@@ -20,7 +20,7 @@ services:
   icon: "/uploads/2020/08/13/manipulator.png"
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
-  heading: Usinagem de precisão
+  heading: Usinagem
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Entre em contato conosco!
 textline: ''
