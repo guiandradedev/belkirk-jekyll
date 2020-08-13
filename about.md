@@ -14,7 +14,7 @@ services:
 - heading: Visão
   description: Ser a maior e melhor empresa de soluções industriais do sudoeste do
     PR e oeste de SC
-  icon: ''
+  icon: "/uploads/2020/08/13/vision.png"
 - heading: Missão
   description: Superar as expectativas do cliente, oferecendo produtos de qualidade
     e atendimento personalizado
