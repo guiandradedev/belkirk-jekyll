@@ -4,10 +4,11 @@ banner_image: ''
 layout: landing-page
 heading: Que tal amplificar sua produção?
 partners:
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
+- "/uploads/2020/08/13/atlas.png"
 services:
+- heading: Projeto e fabricação de componentes
+  description: ''
+  icon: ''
 - description: Performing collaborative research and providing services to support
     the Health Sector.
   heading: Fabricação de máquinas
