@@ -1,8 +1,8 @@
 ---
 title: Home
-banner_image: ''
+banner_image: "/uploads/2020/08/13/soldagem-esi.jpeg"
 layout: landing-page
-heading: Que tal amplificar sua produção?
+heading: Dedicação, qualidade e bom atendimento são a nossa marca
 partners:
 - "/uploads/2020/08/13/fersul-1.png"
 - "/uploads/2020/08/13/41688270_1808364255868165_1469699248474816512_n.png"
@@ -24,7 +24,7 @@ services:
 - description: Tornos, fresadoras, mandrilhadoras, furadeiras para usinagem de precisão
   heading: Usinagem
   icon: "/uploads/2020/08/13/lathe-machine.png"
-sub_heading: Entre em contato conosco!
+sub_heading: Dedicação, qualidade e bom atendimento são a nossa marca
 textline: ''
 hero_button:
   text: Saiba mais
