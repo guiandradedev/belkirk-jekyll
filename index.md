@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/uploads/2020/08/13/dobradora-de-tubos-cnc-eixo.jpeg"
+banner_image: "/uploads/2020/08/13/instalacao-de-maquina-copia.jpeg"
 layout: landing-page
 heading: Dedicação, qualidade e bom atendimento são a nossa marca.
 partners:
