@@ -17,10 +17,12 @@ services:
   heading: Usinagem de precisão
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Entre em contato conosco!
-textline: |
-  Belkirk College of Engineering
-
-  Ora et Labora
+textline: Oferecemos soluções personalizadas e de alta qualidade para a realidade
+  industrial de pequenas e médias empresas. Nossa missão é atender todas as expectativas
+  do cliente! Trabalhamos com consultoria para melhoramento de processos, adequação
+  e fabricação de máquinas e sistemas mecânicos, dimensionamento e usinagem de componentes
+  de precisão. Se sua empresa deseja o melhor atendimento e qualidade de produto,
+  então somos o parceiro ideal para você!
 hero_button:
   text: Saiba mais
   href: "/about"
