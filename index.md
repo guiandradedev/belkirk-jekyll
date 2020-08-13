@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Início
 banner_image: "/uploads/2020/08/13/corte-esi.jpg"
 layout: landing-page
 heading: Dedicação, qualidade e bom atendimento são a nossa marca.
@@ -24,7 +24,7 @@ services:
 - description: Tornos, fresadoras, mandrilhadoras, furadeiras para usinagem de precisão
   heading: Usinagem
   icon: "/uploads/2020/08/13/lathe-machine.png"
-sub_heading: Requisite um orçamento e aumente sua produtividade!
+sub_heading: Quer aumentar sua produtividade? Solicite um orçamento!
 textline: ''
 hero_button:
   text: Saiba mais
