@@ -12,9 +12,10 @@ menu:
     weight: 4
 
 ---
-## Horário de funcionamento:
+## Horários:
 
 * **Segunda-Sexta**, 8:00am às 6:00pm
-* **Sábados**, 8:00am às 12:00pm
+* **Sábados**, 8:00am às 6:00pm
+* **Domingos e Feriados**, 8:00am às 6:00pm (atendimento emergencial)
 
-## Informações de contato
+## Telefones:
