@@ -12,7 +12,8 @@ publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
 services:
 - heading: Missão
-  description: Ser
+  description: Superar as expectativas do cliente, oferecendo produtos de qualidade
+    e atendimento personalizado
   icon: ''
 menu:
   footer:
