@@ -6,18 +6,12 @@ heading: Que tal amplificar sua produção?
 partners:
 - "/uploads/2020/08/13/atlas.png"
 services:
-- heading: Projeto e fabricação de gabaritos
-  description: ''
-  icon: ''
 - heading: Painéis elétricos
-  description: ''
-  icon: ''
-- heading: Projeto e fabricação de componentes
   description: ''
   icon: ''
 - description: Performing collaborative research and providing services to support
     the Health Sector.
-  heading: Projeto e fabricação de máquinas e componentes
+  heading: Projeto e fabricação de máquinas, gabaritos e componentes
   icon: ''
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
