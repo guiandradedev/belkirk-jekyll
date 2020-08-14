@@ -3,8 +3,7 @@ title: Início
 banner_image: "/uploads/2020/08/13/corte-esi-menor.jpg"
 layout: landing-page
 heading: Dedicação, qualidade e bom atendimento são a nossa marca.
-partners:
-- "/uploads/2020/08/13/zincar.png"
+partners: []
 services:
 - description: Máquinas, gabaritos e componentes
   heading: Projeto & Fabricação
