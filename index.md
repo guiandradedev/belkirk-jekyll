@@ -21,9 +21,9 @@ services:
     de peças sobressalentes em geral.
   icon: "/uploads/2020/08/15/settings.png"
 - heading: Segurança e NR12
-  description: Adequação de máquinas, proteções de máquinas e equipamentos, fabricação
-    e instalação de proteções de correias, enclausuramento de máquinas, guarda-corpos,
-    passarelas, entre outros, conforme a norma NR-12.
+  description: Adequação de máquinas e equipamentos, fabricação e instalação de proteções
+    de correias, enclausuramento de máquinas, guarda-corpos, passarelas, entre outros,
+    conforme a norma NR-12.
   icon: "/uploads/2020/08/15/yelmo.png"
 - heading: Instalações elétricas
   description: Painéis elétricos industriais
