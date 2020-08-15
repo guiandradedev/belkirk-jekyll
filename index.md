@@ -5,9 +5,8 @@ layout: landing-page
 heading: Dedicação, qualidade e bom atendimento são a nossa marca.
 partners: []
 services:
-- description: Produzimos máquinas, gabaritos e equipamentos exclusivos, conforme
-    as necessidades de cada cliente, sugerindo aperfeiçoamentos nos processos e oferecendo
-    suporte profissional especializado.
+- description: Máquinas, gabaritos e equipamentos exclusivos, conforme as necessidades
+    de cada cliente, oferecendo suporte profissional especializado.
   heading: Máquinas, gabaritos e equipamentos
   icon: "/uploads/2020/08/13/robot.png"
 - description: Serviços de dimensionamento e usinagem de peças e componentes de precisão
