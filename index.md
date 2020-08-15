@@ -5,6 +5,11 @@ layout: landing-page
 heading: Dedicação, qualidade e bom atendimento são a nossa marca.
 partners: []
 services:
+- heading: Segurança e NR12
+  description: Adequação de máquinas, proteções de máquinas e equipamentos, fabricação
+    e instalação de proteções de correias, enclausuramento de máquinas, guarda-corpos,
+    passarelas, entre outros, conforme a norma NR-12.
+  icon: "/uploads/2020/08/15/yelmo.png"
 - description: Máquinas, gabaritos e equipamentos exclusivos, conforme as necessidades
     de cada cliente, oferecendo suporte profissional especializado.
   heading: Máquinas, gabaritos e equipamentos
