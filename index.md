@@ -28,7 +28,8 @@ services:
   description: Análise de oportunidades de redução de custos, melhoria de processos
     de produção e dispositivos de controle de operações em tempo real.
   icon: "/uploads/2020/08/15/agile.png"
-sub_heading: Quer aumentar sua produtividade? Solicite um orçamento!
+sub_heading: Quer aumentar sua produtividade, reduzir paradas e custos e otimizar
+  lucros? Solicite um orçamento!
 textline: ''
 hero_button:
   text: Entrar em contato
@@ -41,4 +42,4 @@ menu:
     weight: 1
 
 ---
-Com uma equipe especializada, metodologias eficientes de projeto e equipamentos de ponta, oferecemos soluções que geram otimização, melhorias nos processos e ROI acelerado para nossos clientes.
+Com uma equipe especializada, metodologias eficientes de projeto e equipamentos de ponta, oferecemos soluções aumentam a produtividade, otimizam processos produtivos, reduz paradas e desperdícios.
