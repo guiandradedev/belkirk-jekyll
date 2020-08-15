@@ -28,19 +28,10 @@ services:
     de proteções de correias, enclausuramento, guarda-corpos, passarelas, conforme
     a norma NR-12.
   icon: ''
-- heading: ''
-  description: ''
-  icon: ''
-- description: ''
-  heading: Mais produtividade e eficiência
-  icon: ''
-- description: Evite paradas desnecessárias, atuando com manutenção preditiva.
-  heading: Redução de paradas e custos
-  icon: ''
-- heading: Valores acessíveis
-  description: Entregamos soluções de qualidade, atendimento personalizado e ágil,
-    sem cobrar mais por isso.
-  icon: ''
+- heading: Consultoria e Indústria 4.0
+  description: Análise de oportunidades de redução de custos, melhoria de processos
+    de produção e dispositivos de controle de operações em tempo real.
+  icon: "/uploads/2020/08/15/agile.png"
 sub_heading: Quer aumentar sua produtividade? Solicite um orçamento!
 textline: ''
 hero_button:
