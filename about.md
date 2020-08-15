@@ -9,15 +9,15 @@ textline: ''
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
 services:
-- heading: Visão
-  description: Ser a melhor empresa de soluções industriais do sudoeste do PR e oeste
-    de SC para clientes, colaboradores e fornecedores
-  icon: "/uploads/2020/08/15/vision-1.png"
 - heading: Missão
   description: Atender com excelência as necessidades dos clientes, desenvolvendo
     produtos de qualidade e atendimento personalizado que aumentem produtividade,
     eficiência e sustentabilidade
   icon: "/uploads/2020/08/13/mission.png"
+- heading: Visão
+  description: Ser a melhor empresa de soluções industriais do sudoeste do PR e oeste
+    de SC para clientes, colaboradores e fornecedores
+  icon: "/uploads/2020/08/15/vision-1.png"
 - heading: Valores
   description: Paixão, Antifragilidade, Honestidade, Responsabilidade e Colaboração
   icon: "/uploads/2020/08/15/diamante.png"
