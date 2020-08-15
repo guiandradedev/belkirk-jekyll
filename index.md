@@ -7,7 +7,7 @@ partners: []
 services:
 - heading: Máquinas e gabaritos
   description: Máquinas, gabaritos e equipamentos exclusivos, conforme as necessidades
-    de cada cliente, oferecendo suporte profissional especializado.
+    de cada cliente, com suporte profissional especializado.
   icon: "/uploads/2020/08/13/robot.png"
 - heading: Usinagem, solda e peças de reposição
   description: Dimensionamento e usinagem de peças e componentes de precisão em plaina,
