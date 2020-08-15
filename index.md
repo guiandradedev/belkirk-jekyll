@@ -6,7 +6,7 @@ heading: Dedicação, qualidade e bom atendimento são a nossa marca.
 partners: []
 services:
 - description: ''
-  heading: Aumento de produtividade
+  heading: Aumento de eficiência e produtividade
   icon: ''
 - description: Evite paradas desnecessárias, atuando com manutenção preditiva.
   heading: Redução de Paradas
