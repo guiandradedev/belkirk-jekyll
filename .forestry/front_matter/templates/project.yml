@@ -27,4 +27,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- _projects/automacao-de-linha-de-montagem.md
 - _projects/modelagem-e-fabricacao-de-pecas.md
