@@ -6,6 +6,26 @@ publish_date: '2017-11-01T03:00:00.000+00:00'
 heading: Projetos & Fabricação
 sub_heading: Oferecemos o que há de melhor para sua indústria crescer bem!
 banner_image: ''
+services:
+- heading: Máquinas e gabaritos
+  icon: "/uploads/2020/08/13/robot.png"
+  description: Máquinas, gabaritos e equipamentos exclusivos, conforme as necessidades
+    de cada cliente, oferecendo suporte profissional especializado.
+- heading: ''
+  description: ''
+  icon: ''
+- heading: ''
+  description: ''
+  icon: ''
+- heading: ''
+  description: ''
+  icon: ''
+- heading: ''
+  description: ''
+  icon: ''
+- heading: ''
+  description: ''
+  icon: ''
 menu:
   navigation:
     identifier: _projects
