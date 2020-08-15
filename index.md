@@ -10,8 +10,9 @@ services:
     suporte profissional especializado.
   heading: Máquinas, gabaritos e equipamentos
   icon: "/uploads/2020/08/13/robot.png"
-- description: Tornos, fresadoras e funcionários capacitados para usinagem de precisão
-  heading: Usinagem
+- description: Serviços de dimensionamento e usinagem de peças e componentes de precisão
+    em plaina, torno e fresadora CNC
+  heading: Usinagem e solda
   icon: "/uploads/2020/08/13/lathe-machine.png"
 - heading: Instalações elétricas
   description: Painéis elétricos industriais
