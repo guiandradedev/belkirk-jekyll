@@ -1,5 +1,5 @@
 ---
-title: Serviços
+title: Nossos Projetos
 layout: projects
 description: Projects by Belkirk College
 publish_date: '2017-11-01T03:00:00.000+00:00'
@@ -7,30 +7,10 @@ heading: Projetos & Fabricação
 sub_heading: Oferecemos o que há de melhor para sua indústria crescer bem!
 banner_image: ''
 services:
-- heading: Máquinas e gabaritos
-  icon: "/uploads/2020/08/13/robot.png"
-  description: Máquinas, gabaritos e equipamentos exclusivos, conforme as necessidades
-    de cada cliente, oferecendo suporte profissional especializado.
-- heading: Usinagem e soldagem
-  description: Serviços de dimensionamento e usinagem de peças e componentes de precisão
-    em plaina, torno e fresadora CNC.
-  icon: "/uploads/2020/08/13/lathe-machine.png"
-- heading: Modelagem e treinamentos CAD
-  description: Desenhos e projetos em 3D, conversão de desenhos 2D para 3D.
-  icon: "/uploads/2020/08/15/geometry.png"
-- heading: Peças para reposição
-  description: Manutenção e produção de peças para reposição de maquinários. Fabricação
-    de peças sobressalentes em geral.
-  icon: "/uploads/2020/08/15/settings.png"
-- heading: Instalações elétricas
-  description: Quadros elétricos industriais para qualquer tipo de máquina ou indústria.
-  icon: "/uploads/2020/08/13/electrical-panel.png"
-- heading: Segurança NR12
-  description: Treinamentos, adequação de máquinas e equipamentos, fabricação e instalação
-    de proteções de correias, enclausuramento, guarda-corpos, passarelas, conforme
-    a norma NR-12.
-  icon: "/uploads/2020/08/15/yelmo.png"
-show_news: true
+- heading: ''
+  description: ''
+  icon: ''
+show_news: false
 menu:
   navigation:
     identifier: _projects
