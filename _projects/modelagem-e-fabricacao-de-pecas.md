@@ -4,7 +4,6 @@ title: Modelagem e fabricação de peças
 sub_heading: Precisão, qualidade e agilidade de entrega
 banner_image: "/uploads/2020/08/15/whatsapp-image-2020-08-13-at-22-17-03-1-copia.jpeg"
 slug: ''
-published: false
 
 ---
 ## Overview
