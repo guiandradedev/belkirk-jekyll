@@ -1,9 +1,9 @@
 ---
-title: Cortadora de arame
+title: Cortadora de arames
 date: '2016-04-20T00:00:00.000+00:00'
 categories: []
 description: A portable device for epileptic patients.
-banner_image: ''
+banner_image: "/uploads/2020/08/15/cortadora-de-arames.JPG"
 sub_heading: A post-modern taking on Engineering in the Digital World
 tags:
 - engineering
