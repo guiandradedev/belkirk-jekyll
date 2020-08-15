@@ -5,6 +5,10 @@ layout: landing-page
 heading: Dedicação, qualidade e bom atendimento são a nossa marca.
 partners: []
 services:
+- heading: Usinagem e soldagem
+  description: Serviços de dimensionamento e usinagem de peças e componentes de precisão
+    em plaina, torno e fresadora CNC.
+  icon: "/uploads/2020/08/13/lathe-machine.png"
 - heading: Máquinas e gabaritos
   description: Máquinas, gabaritos e equipamentos exclusivos, conforme as necessidades
     de cada cliente, oferecendo suporte profissional especializado.
