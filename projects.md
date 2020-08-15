@@ -22,9 +22,9 @@ services:
   description: Manutenção e produção de peças para reposição de maquinários. Fabricação
     de peças sobressalentes em geral.
   icon: "/uploads/2020/08/15/settings.png"
-- heading: ''
-  description: ''
-  icon: ''
+- heading: Instalações elétricas
+  description: Quadros elétricos industriais para qualquer tipo de máquina ou indústria.
+  icon: "/uploads/2020/08/13/electrical-panel.png"
 - heading: ''
   description: ''
   icon: ''
