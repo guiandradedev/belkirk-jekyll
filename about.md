@@ -1,10 +1,9 @@
 ---
 title: Sobre nós
 date: '2017-11-01T03:00:00.000+00:00'
-banner_image: "/uploads/2020/08/15/elia-pellegrini-splyvx-pgtg-unsplash.jpg"
-heading: Sobre nós
-sub_heading: Somos uma equipe especializada para trabalhar por você. E somos muito
-  mais!
+banner_image: "/uploads/2020/08/15/henrik-donnestad-dcd0_mzlcsg-unsplash.jpg"
+heading: Somos paixão, curiosidade e alegria
+sub_heading: Uma equipe especializada para trabalhar por você! E muito mais!
 layout: landing-page
 textline: ''
 publish_date: '2017-12-01T04:00:00.000+00:00'
