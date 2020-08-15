@@ -9,7 +9,7 @@ services:
   heading: Mais produtividade e eficiência
   icon: ''
 - description: Evite paradas desnecessárias, atuando com manutenção preditiva.
-  heading: Redução de Paradas
+  heading: Redução de paradas
   icon: ''
 - heading: Modelagem e treinamentos CAD
   description: Desenhos e projetos em 3D, conversão de desenhos 2D para 3D.
