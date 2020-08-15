@@ -15,9 +15,8 @@ services:
   heading: Usinagem e solda
   icon: "/uploads/2020/08/13/lathe-machine.png"
 - heading: Projetos e treinamentos CAD
-  description: Desenhos e projetos em CAD 3D, conversão de desenhos 2D de peças para
-    modelos 3D
-  icon: "/uploads/2020/08/13/robot-1.png"
+  description: Desenhos e projetos 3D, conversão de peças 2D para modelos 3D
+  icon: "/uploads/2020/08/15/geometry.png"
 - heading: Instalações elétricas
   description: Painéis elétricos industriais
   icon: "/uploads/2020/08/13/electrical-panel.png"
