@@ -5,10 +5,6 @@ layout: landing-page
 heading: Dedicação, qualidade e bom atendimento são a nossa marca.
 partners: []
 services:
-- heading: Peças para reposição
-  description: Manutenção e produção de peças para reposição de maquinários. Fabricação
-    de peças sobressalentes em geral.
-  icon: "/uploads/2020/08/15/settings.png"
 - heading: Usinagem e soldagem
   description: Serviços de dimensionamento e usinagem de peças e componentes de precisão
     em plaina, torno e fresadora CNC.
@@ -20,6 +16,16 @@ services:
 - heading: Modelagem e treinamentos CAD
   description: Desenhos e projetos em 3D, conversão de desenhos 2D para 3D.
   icon: "/uploads/2020/08/15/geometry.png"
+- heading: Peças para reposição
+  description: Manutenção e produção de peças para reposição de maquinários. Fabricação
+    de peças sobressalentes em geral.
+  icon: "/uploads/2020/08/15/settings.png"
+- heading: Instalações elétricas
+  description: Quadros elétricos industriais para qualquer tipo de máquina ou indústria.
+  icon: "/uploads/2020/08/13/electrical-panel.png"
+- heading: ''
+  description: ''
+  icon: ''
 - heading: ''
   description: ''
   icon: ''
