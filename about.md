@@ -1,5 +1,5 @@
 ---
-title: Sobre nós
+title: Sobre
 date: '2017-11-01T03:00:00.000+00:00'
 banner_image: ''
 heading: Quem somos, afinal?
@@ -18,9 +18,6 @@ services:
   description: Ser a melhor empresa de soluções industriais do sudoeste do PR e oeste
     de SC para clientes, colaboradores e fornecedores
   icon: "/uploads/2020/08/15/vision-1.png"
-- heading: Valores
-  description: Paixão, Antifragilidade, Honestidade, Responsabilidade e Colaboração
-  icon: "/uploads/2020/08/15/diamante.png"
 menu:
   footer:
     identifier: _about
