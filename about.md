@@ -1,7 +1,7 @@
 ---
 title: Sobre nós
 date: '2017-11-01T03:00:00.000+00:00'
-banner_image: "/uploads/2020/08/15/henrik-donnestad-dcd0_mzlcsg-unsplash.jpg"
+banner_image: ''
 heading: Quem somos, afinal?
 sub_heading: Uma equipe especializada para trabalhar por você, e muito mais!
 layout: landing-page
