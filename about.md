@@ -30,7 +30,7 @@ menu:
     weight: 2
 
 ---
-A nossa empresa não é uma iniciativa de sócios e funcionários unicamente em busca de lucro. Somos muito mais que isso. Somos paixão, curiosidade, noites em claro, epifanias madrugais e alegria! Somos o arrepio ao ver nossas ideias mudando negócios, somos a força onipotente, incansável e esmagadora da determinação e persistência. **Somos a ESI Soluções Industriais.**
+Não somos uma iniciativa de sócios e funcionários unicamente em busca de lucro. Somos muito mais que isso. Somos paixão, curiosidade, noites em claro, epifanias madrugais e alegria! Somos o arrepio ao ver nossas ideias mudando negócios, somos a força onipotente, incansável e esmagadora da determinação e persistência. **Somos a ESI Soluções Industriais.**
 
 Queremos, junto com clientes, colaboradores e fornecedores, construir um ecossistema de confiança, crescimento e prosperidade mútua. Queremos nossas famílias, amigos e comunidade se desenvolvendo junto com a gente. Queremos um país melhor para as futuras gerações.
 
