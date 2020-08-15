@@ -11,7 +11,7 @@ services:
   icon: "/uploads/2020/08/13/robot.png"
 - description: Serviços de dimensionamento e usinagem de peças e componentes de precisão
     em plaina, torno e fresadora CNC.
-  heading: Usinagem e solda
+  heading: Usinagem e soldagem
   icon: "/uploads/2020/08/13/lathe-machine.png"
 - heading: Modelagem e treinamentos CAD
   description: Desenhos e projetos em 3D, conversão de desenhos 2D para 3D.
