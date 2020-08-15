@@ -42,4 +42,4 @@ menu:
     weight: 1
 
 ---
-Com uma equipe especializada, metodologias eficientes de projeto e equipamentos de ponta, oferecemos soluções aumentam a produtividade, otimizam processos produtivos, reduz paradas e desperdícios.
+Com uma equipe especializada, metodologias eficientes de projeto e equipamentos de ponta, oferecemos soluções que aumentam a produtividade, otimizam processos produtivos, reduzem paradas e desperdícios e colocam o poder da informação e controle de operações em tempo real nas suas mãos.
