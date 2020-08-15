@@ -5,8 +5,11 @@ layout: landing-page
 heading: Dedicação, qualidade e bom atendimento são a nossa marca.
 partners: []
 services:
-- description: Máquinas, gabaritos e componentes
-  heading: Projeto & Fabricação
+- description: Produzimos máquinas, gabaritos e equipamentos exclusivos, conforme
+    as necessidades de cada cliente, sugerindo aperfeiçoamentos nos processos e oferecendo
+    suporte profissional especializado.  – Fabricação de máquinas, gabaritos e equipamentos;–
+    Adequação de máquinas e equipamentos;– Desenvolvimento de protótipos
+  heading: Máquinas, gabaritos e equipamentos
   icon: "/uploads/2020/08/13/robot.png"
 - description: Tornos, fresadoras e funcionários capacitados para usinagem de precisão
   heading: Usinagem
@@ -34,4 +37,4 @@ menu:
     weight: 1
 
 ---
-Com uma equipe especializada, metodologias eficientes e equipamentos de ponta, oferecemos soluções que geram otimização, melhorias nos processos e ROI acelerado.
+Com uma equipe especializada, metodologias eficientes de projeto e equipamentos de ponta, oferecemos soluções que geram otimização, melhorias nos processos e ROI acelerado para nossos clientes.
