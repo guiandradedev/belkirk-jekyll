@@ -1,7 +1,8 @@
 ---
 tags: []
 title: Usinagem, solda e peças de reposição
-sub_heading: Precisão, qualidade e agilidade de entrega
+sub_heading: Dimensionamento e usinagem de peças e componentes de precisão em plaina,
+  torno e fresadora CNC. Manutenção e fabricação de peças sobressalentes
 banner_image: "/uploads/2020/08/15/whatsapp-image-2020-08-13-at-22-17-03-1-copia.jpeg"
 slug: ''
 
