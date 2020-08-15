@@ -30,6 +30,7 @@ services:
     de proteções de correias, enclausuramento, guarda-corpos, passarelas, conforme
     a norma NR-12.
   icon: "/uploads/2020/08/15/yelmo.png"
+show_news: true
 menu:
   navigation:
     identifier: _projects
