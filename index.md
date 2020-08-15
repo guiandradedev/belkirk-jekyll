@@ -11,7 +11,7 @@ services:
 - description: Serviços de dimensionamento e usinagem de peças e componentes de precisão
     em plaina, torno e fresadora CNC.
   heading: Usinagem e soldagem
-  icon: "/uploads/2020/08/13/lathe-machine.png"
+  icon: ''
 - heading: Modelagem e treinamentos CAD
   description: Desenhos e projetos em 3D, conversão de desenhos 2D para 3D.
   icon: "/uploads/2020/08/15/geometry.png"
