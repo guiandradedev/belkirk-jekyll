@@ -23,8 +23,10 @@ services:
 - heading: Instalações elétricas
   description: Quadros elétricos industriais para qualquer tipo de máquina ou indústria.
   icon: "/uploads/2020/08/13/electrical-panel.png"
-- heading: ''
-  description: ''
+- heading: Segurança NR12
+  description: Treinamentos, adequação de máquinas e equipamentos, fabricação e instalação
+    de proteções de correias, enclausuramento, guarda-corpos, passarelas, conforme
+    a norma NR-12.
   icon: ''
 - heading: ''
   description: ''
