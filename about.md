@@ -15,8 +15,8 @@ services:
     eficiência, qualidade e sustentabilidade
   icon: "/uploads/2020/08/13/mission.png"
 - heading: Visão
-  description: Ser a maior e melhor empresa de soluções industriais do sudoeste do
-    PR e oeste de SC
+  description: ser a melhor empresa de soluções industriais do sudoeste do PR e oeste
+    de SC para clientes, colaboradores e fornecedores
   icon: "/uploads/2020/08/15/vision-1.png"
 - heading: Valores
   description: Paixão, Antifragilidade, Honestidade, Responsabilidade e Colaboração
