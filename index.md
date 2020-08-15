@@ -14,6 +14,10 @@ services:
     em plaina, torno e fresadora CNC
   heading: Usinagem e solda
   icon: "/uploads/2020/08/13/lathe-machine.png"
+- heading: Projetos e treinamentos CAD
+  description: Desenhos e projetos em CAD 3D, conversão de desenhos 2D de peças para
+    modelos 3D
+  icon: "/uploads/2020/08/13/robot-1.png"
 - heading: Instalações elétricas
   description: Painéis elétricos industriais
   icon: "/uploads/2020/08/13/electrical-panel.png"
@@ -21,9 +25,6 @@ services:
   description: Consultoria com profissionais experientes e certificados em Lean Six
     Sigma
   icon: "/uploads/2020/08/13/weight.png"
-- heading: Indústria 4.0
-  description: Tecnologia de ponta para gestão da produção
-  icon: "/uploads/2020/08/13/robot-1.png"
 sub_heading: Quer aumentar sua produtividade? Solicite um orçamento!
 textline: ''
 hero_button:
