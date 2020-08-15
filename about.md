@@ -3,7 +3,7 @@ title: Sobre
 date: '2017-11-01T03:00:00.000+00:00'
 banner_image: ''
 heading: Quem somos, afinal?
-sub_heading: Uma equipe especializada para trabalhar por você, e muito mais!
+sub_heading: Equipe especializada para trabalhar por você, e muito mais!
 layout: landing-page
 textline: ''
 publish_date: '2017-12-01T04:00:00.000+00:00'
