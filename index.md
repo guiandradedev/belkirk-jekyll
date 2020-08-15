@@ -28,8 +28,8 @@ services:
   description: Análise de oportunidades de redução de custos, melhoria de processos
     de produção e dispositivos de controle de operações em tempo real.
   icon: "/uploads/2020/08/15/agile.png"
-sub_heading: Quer aumentar sua produtividade, reduzir paradas e custos e otimizar
-  lucros? Solicite um orçamento!
+sub_heading: Quer aumentar sua produtividade, reduzir paradas e desperdícios, e otimizar
+  seus lucros? Solicite um orçamento!
 textline: ''
 hero_button:
   text: Entrar em contato
