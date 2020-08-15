@@ -9,9 +9,9 @@ services:
   description: Máquinas, gabaritos e equipamentos exclusivos, conforme as necessidades
     de cada cliente, oferecendo suporte profissional especializado.
   icon: "/uploads/2020/08/13/robot.png"
-- heading: 'Usinagem, solda e '
+- heading: Usinagem, solda e peças de reposição
   description: Dimensionamento e usinagem de peças e componentes de precisão em plaina,
-    torno e fresadora CNC. Manutenção e produção de peças para reposição de maquinários.
+    torno e fresadora CNC. Manutenção e fabricação de peças sobressalentes
   icon: "/uploads/2020/08/13/lathe-machine.png"
 - heading: Modelagem e treinamentos CAD
   description: Desenhos e projetos em 3D, conversão de desenhos 2D para 3D.
