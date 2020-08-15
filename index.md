@@ -20,10 +20,10 @@ services:
   description: Manutenção e produção de peças para reposição de maquinários. Fabricação
     de peças sobressalentes em geral.
   icon: "/uploads/2020/08/15/settings.png"
-- heading: Segurança e treinamentos NR12
-  description: Adequação de máquinas e equipamentos, fabricação e instalação de proteções
-    de correias, enclausuramento, guarda-corpos, passarelas, entre outros, conforme
-    a norma NR-12.
+- heading: Segurança NR12
+  description: Treinamentos, adequação de máquinas e equipamentos, fabricação e instalação
+    de proteções de correias, enclausuramento, guarda-corpos, passarelas, entre outros,
+    conforme a norma NR-12.
   icon: "/uploads/2020/08/15/yelmo.png"
 - heading: Instalações elétricas
   description: Painéis elétricos industriais
