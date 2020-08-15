@@ -11,8 +11,9 @@ services:
 - description: Evite paradas desnecessárias, atuando com manutenção preditiva.
   heading: Redução de paradas e custos
   icon: ''
-- heading: tes
-  description: ''
+- heading: Valores acessíveis
+  description: Entregamos soluções de qualidade, atendimento personalizado e ágil,
+    sem cobrar mais por isso.
   icon: ''
 sub_heading: Quer aumentar sua produtividade? Solicite um orçamento!
 textline: ''
