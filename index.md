@@ -9,7 +9,7 @@ services:
   heading: Mais produtividade e eficiência
   icon: ''
 - description: Evite paradas desnecessárias, atuando com manutenção preditiva.
-  heading: Redução de paradas
+  heading: Redução de paradas e custos
   icon: ''
 - heading: tes
   description: ''
