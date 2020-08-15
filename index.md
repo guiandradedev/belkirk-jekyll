@@ -5,10 +5,9 @@ layout: landing-page
 heading: Dedicação, qualidade e bom atendimento são a nossa marca.
 partners: []
 services:
-- description: Máquinas, gabaritos e equipamentos exclusivos, conforme as necessidades
-    de cada cliente, oferecendo suporte profissional especializado.
-  heading: Máquinas e gabaritos
-  icon: "/uploads/2020/08/13/robot.png"
+- description: ''
+  heading: Aumente sua produtividade
+  icon: ''
 - description: Serviços de dimensionamento e usinagem de peças e componentes de precisão
     em plaina, torno e fresadora CNC.
   heading: Usinagem e soldagem
@@ -16,18 +15,6 @@ services:
 - heading: Modelagem e treinamentos CAD
   description: Desenhos e projetos em 3D, conversão de desenhos 2D para 3D.
   icon: "/uploads/2020/08/15/geometry.png"
-- heading: Peças para reposição
-  description: Manutenção e produção de peças para reposição de maquinários. Fabricação
-    de peças sobressalentes em geral.
-  icon: "/uploads/2020/08/15/settings.png"
-- heading: Instalações elétricas
-  description: Quadros elétricos industriais para qualquer tipo de máquina ou indústria.
-  icon: "/uploads/2020/08/13/electrical-panel.png"
-- heading: Segurança NR12
-  description: Treinamentos, adequação de máquinas e equipamentos, fabricação e instalação
-    de proteções de correias, enclausuramento, guarda-corpos, passarelas, conforme
-    a norma NR-12.
-  icon: "/uploads/2020/08/15/yelmo.png"
 sub_heading: Quer aumentar sua produtividade? Solicite um orçamento!
 textline: ''
 hero_button:
