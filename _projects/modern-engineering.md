@@ -20,7 +20,15 @@ Resident Professors Murphy Tiernan and Kelly Brewer have collaborated over the l
 
 ![](/uploads/2020/08/13/soldagem-esi.jpeg)
 
-## Editions
+## Equipe
 
-* Edition One - 2016
-* Edition Two - 2017
+### Engenheiros
+
+* Andrew Convington
+* Mark Bradbury
+* Ashley O'Brien
+
+### Técnicos
+
+* Andrew Convington
+* Mark Bradbury
