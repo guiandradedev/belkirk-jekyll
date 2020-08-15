@@ -14,11 +14,11 @@ services:
   heading: Usinagem e solda
   icon: "/uploads/2020/08/13/lathe-machine.png"
 - heading: Modelagem e treinamentos CAD
-  description: Desenhos e projetos em 3D, conversão de desenhos 2D para 3D
+  description: Desenhos e projetos em 3D, conversão de desenhos 2D para 3D.
   icon: "/uploads/2020/08/15/geometry.png"
 - heading: Peças para reposição
   description: Manutenção e produção de peças para reposição de maquinários. Fabricação
-    de peças sobressalentes em geral
+    de peças sobressalentes em geral.
   icon: "/uploads/2020/08/15/settings.png"
 - heading: Instalações elétricas
   description: Painéis elétricos industriais
