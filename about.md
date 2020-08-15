@@ -18,7 +18,7 @@ services:
 - heading: Visão
   description: Ser a maior e melhor empresa de soluções industriais do sudoeste do
     PR e oeste de SC
-  icon: "/uploads/2020/08/13/vision.png"
+  icon: "/uploads/2020/08/15/vision-1.png"
 menu:
   footer:
     identifier: _about
