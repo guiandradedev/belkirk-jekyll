@@ -10,7 +10,7 @@ publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
 services:
 - heading: Missão
-  description: atender com excelência as necessidades dos clientes, desenvolvendo
+  description: Atender com excelência as necessidades dos clientes, desenvolvendo
     produtos de qualidade e atendimento personalizado que aumentem produtividade,
     eficiência, qualidade e sustentabilidade
   icon: "/uploads/2020/08/13/mission.png"
