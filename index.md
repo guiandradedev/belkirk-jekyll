@@ -7,7 +7,7 @@ partners: []
 services:
 - description: Máquinas, gabaritos e equipamentos exclusivos, conforme as necessidades
     de cada cliente, oferecendo suporte profissional especializado.
-  heading: Máquinas, gabaritos e equipamentos
+  heading: Máquinas e gabaritos
   icon: "/uploads/2020/08/13/robot.png"
 - description: Serviços de dimensionamento e usinagem de peças e componentes de precisão
     em plaina, torno e fresadora CNC.
