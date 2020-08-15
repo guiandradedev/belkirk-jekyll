@@ -14,7 +14,7 @@ services:
   icon: ''
 - heading: Modelagem e treinamentos CAD
   description: Desenhos e projetos em 3D, conversão de desenhos 2D para 3D.
-  icon: "/uploads/2020/08/15/geometry.png"
+  icon: ''
 sub_heading: Quer aumentar sua produtividade? Solicite um orçamento!
 textline: ''
 hero_button:
