@@ -27,7 +27,7 @@ services:
   description: Treinamentos, adequação de máquinas e equipamentos, fabricação e instalação
     de proteções de correias, enclausuramento, guarda-corpos, passarelas, conforme
     a norma NR-12.
-  icon: ''
+  icon: "/uploads/2020/08/15/yelmo.png"
 - heading: Consultoria e Indústria 4.0
   description: Análise de oportunidades de redução de custos, melhoria de processos
     de produção e dispositivos de controle de operações em tempo real.
