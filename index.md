@@ -19,7 +19,7 @@ services:
 - heading: Segurança NR12
   description: Treinamentos, adequação de máquinas e equipamentos, fabricação e instalação
     de proteções de correias, enclausuramento, guarda-corpos, passarelas, conforme
-    a norma NR-12.
+    a norma NR-12
   icon: "/uploads/2020/08/15/yelmo.png"
 - heading: Instalações elétricas
   description: Quadros elétricos industriais para qualquer tipo de máquina ou indústria.
