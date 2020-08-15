@@ -19,7 +19,7 @@ services:
 - heading: Peças para reposição
   description: Manutenção e produção de peças para reposição de maquinários. Fabricação
     de peças sobressalentes em geral
-  icon: "/uploads/2020/08/13/weight.png"
+  icon: "/uploads/2020/08/15/settings.png"
 - heading: Instalações elétricas
   description: Painéis elétricos industriais
   icon: "/uploads/2020/08/13/electrical-panel.png"
