@@ -14,7 +14,7 @@ services:
     torno e fresadora CNC. Manutenção e fabricação de peças sobressalentes
   icon: "/uploads/2020/08/13/lathe-machine.png"
 - heading: Modelagem e treinamentos CAD
-  description: Desenhos e projetos em 3D, conversão de desenhos 2D para 3D.
+  description: Desenhos e projetos em 3D, conversão de desenhos 2D para 3D
   icon: "/uploads/2020/08/15/geometry.png"
 - heading: Segurança NR12
   description: Treinamentos, adequação de máquinas e equipamentos, fabricação e instalação
