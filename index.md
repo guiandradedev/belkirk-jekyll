@@ -20,14 +20,14 @@ services:
   description: Manutenção e produção de peças para reposição de maquinários. Fabricação
     de peças sobressalentes em geral.
   icon: "/uploads/2020/08/15/settings.png"
+- heading: Instalações elétricas
+  description: Quadros elétricos industriais para qualquer tipo de máquina ou indústria.
+  icon: "/uploads/2020/08/13/electrical-panel.png"
 - heading: Segurança NR12
   description: Treinamentos, adequação de máquinas e equipamentos, fabricação e instalação
     de proteções de correias, enclausuramento, guarda-corpos, passarelas, entre outros,
     conforme a norma NR-12.
   icon: "/uploads/2020/08/15/yelmo.png"
-- heading: Instalações elétricas
-  description: Quadros elétricos industriais para qualquer tipo de máquina ou indústria.
-  icon: "/uploads/2020/08/13/electrical-panel.png"
 sub_heading: Quer aumentar sua produtividade? Solicite um orçamento!
 textline: ''
 hero_button:
