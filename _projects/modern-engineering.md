@@ -1,14 +1,16 @@
 ---
-title: Dobradora de tubos CNC
+title: Fabricação de máquinas e gabaritos
 date: '2016-04-20T00:00:00.000+00:00'
 categories: []
 description: 'Computer-Based Training for Cogntive Behavioural Therapy: An Addictions
   Program for Canada'
 banner_image: "/uploads/2020/08/15/dobradora-de-tubos-cnc.jpeg"
-sub_heading: A post-modern taking on Engineering in the Digital World
+sub_heading: Máquinas, gabaritos e equipamentos exclusivos, conforme as necessidades
+  de cada cliente, com suporte profissional especializado
 tags:
-- engineering
-- research
+- máquinas
+- industria
+- engenharia
 slug: ''
 
 ---
