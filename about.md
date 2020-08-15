@@ -16,7 +16,7 @@ services:
 - heading: Missão
   description: Atender com excelência as necessidades dos clientes, desenvolvendo
     produtos de qualidade e atendimento personalizado que aumentem produtividade,
-    eficiência, qualidade e sustentabilidade
+    eficiência e sustentabilidade
   icon: "/uploads/2020/08/13/mission.png"
 - heading: Valores
   description: Paixão, Antifragilidade, Honestidade, Responsabilidade e Colaboração
