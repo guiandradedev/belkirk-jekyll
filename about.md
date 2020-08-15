@@ -38,6 +38,8 @@ Queremos, junto com clientes, colaboradores e fornecedores, construir um ecossis
 
 Por isso tudo, nossos valores são buscados, compartilhados e cultivados em tudo que fazemos.
 
+![](/uploads/2020/08/15/elia-pellegrini-splyvx-pgtg-unsplash.jpg)
+
 **Paixão**
 
 É o motor do aprendizado contínuo e da excelência; nos dá propósito, significância e satisfação.
