@@ -5,6 +5,10 @@ layout: landing-page
 heading: Dedicação, qualidade e bom atendimento são a nossa marca.
 partners: []
 services:
+- heading: Máquinas e gabaritos
+  description: Máquinas, gabaritos e equipamentos exclusivos, conforme as necessidades
+    de cada cliente, oferecendo suporte profissional especializado.
+  icon: "/uploads/2020/08/13/robot.png"
 - description: ''
   heading: Mais produtividade e eficiência
   icon: ''
