@@ -8,9 +8,8 @@ services:
 - description: ''
   heading: Aumente sua produtividade
   icon: ''
-- description: Serviços de dimensionamento e usinagem de peças e componentes de precisão
-    em plaina, torno e fresadora CNC.
-  heading: Usinagem e soldagem
+- description: Evite paradas desnecessárias, atuando com manutenção preditiva.
+  heading: Redução de Paradas
   icon: ''
 - heading: Modelagem e treinamentos CAD
   description: Desenhos e projetos em 3D, conversão de desenhos 2D para 3D.
