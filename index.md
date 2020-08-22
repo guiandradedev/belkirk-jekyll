@@ -13,8 +13,8 @@ services:
   description: Dimensionamento e usinagem de peças e componentes de precisão, torno
     e fresadora CNC. Fabricação de peças sobressalentes
   icon: "/uploads/2020/08/13/lathe-machine.png"
-- heading: Modelagem 3d e mini-cursos
-  description: Desenhos e projetos em 3D, conversão de desenhos 2D para 3D
+- heading: Modelagem CAD e mini-cursos
+  description: Desenhos e projetos em 2D/3D, conversão de desenhos 2D para 3D
   icon: "/uploads/2020/08/15/geometry.png"
 - heading: Segurança NR12
   description: Treinamentos, adequação de máquinas e equipamentos, fabricação e instalação
