@@ -22,10 +22,10 @@ services:
 - heading: Instalações elétricas
   description: Painéis e instalações elétricas para máquinas e equipamentos industriais
   icon: "/uploads/2020/08/13/electrical-panel.png"
-- heading: Consultoria e Indústria 4.0
+- heading: Consultoria e melhoramento
   description: Análise de oportunidades de redução de custos, melhoria de processos
     de produção com metodologia Lean 6 Sigma e dispositivos de controle de operações
-    em tempo real
+    em tempo real e automação
   icon: "/uploads/2020/08/15/agile.png"
 sub_heading: Quer aumentar sua produtividade, reduzir paradas e desperdícios, e otimizar
   seus lucros? Solicite um orçamento!
