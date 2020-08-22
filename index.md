@@ -20,8 +20,7 @@ services:
   description: Adequação de máquinas e equipamentos conforme a norma NR-12
   icon: "/uploads/2020/08/15/yelmo.png"
 - heading: Instalações elétricas
-  description: Quadros e instalações elétricas para qualquer tipo de máquina, setor
-    e indústria
+  description: Painéis e instalações elétricas para máquinas e equipamentos industriais
   icon: "/uploads/2020/08/13/electrical-panel.png"
 - heading: Consultoria e Indústria 4.0
   description: Análise de oportunidades de redução de custos, melhoria de processos
