@@ -26,4 +26,4 @@ menu:
 * (46) 99913-6201 - Marcos de Carli
 * (46) 99112-3769 - Guilherme Andrade
 
-![Aponte a câmera do celular para salvar nosso contato!](/uploads/2020/08/27/visit_card.png "Contato")
+![](/uploads/2020/08/27/visit_card-1.png)
