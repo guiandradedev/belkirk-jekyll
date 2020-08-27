@@ -15,6 +15,6 @@ thumbnail: "/uploads/2020/08/13/marcos.jpg"
 layout: person
 
 ---
-Graduado na UTFPR, trabalha na indústria há mais de 3 anos, tem grande experiência com dimensionamento, motores de combustão, fabricação e projeto de componentes e máquinas industriais. 
+Graduado em Eng. Mecânica na UTFPR, fundador da ESI – Soluções Industriais com 2 anos de experiência de empresa, trabalha no ramo industrial há mais de 3 anos, com conhecimentos em metodologias de melhoramento de produção e desenvolvimento de produto. Também já atuou como Gerente Industrial.
 
-Desenvolveu e foi líder de projeto do veículo mais eficiente da América do Sul entre 2017 e 2018, com a marca de 412,4 km/l com etanol.
+Durante a sua formação, vivenciou duas competições de eficiência energética no exterior (Detroit e Sonoma – USA) conseguindo a melhor marca da América em 2018 no combustível etanol – 523 km/l como líder de equipe e duas no Brasil (Cotia e Rio de Janeiro), sendo campeão na categoria Etanol e vice-campeão na categoria Gasolina 2017. Amplo conhecimento em projetos mecânicos e domínio de ferramenta de modelagem 3D, com cursos extracurriculares em solidworks, simulações computacionais estruturais e simulações fluído-dinâmicas – ansys.
