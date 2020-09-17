@@ -9,7 +9,7 @@ email: guilherme1475963@hotmail.com
 linkedin: www.linkedin.com/in/guilherme-henrique-de-andrade
 
 ---
-Graduado na UTFPR, trabalha na indústria há mais de 5 anos, com experiência em projetos de melhoria de processos e Inteligencia Artificial, Data Science e certificado em Lean Six Sigma.
+Graduado na UTFPR, trabalha na indústria há mais de 5 anos, com experiência em projetos de melhoria de processos e Inteligencia Artificial e Data Science.
 
 Fundou, em 2014, a Occam Engenharia, primeira empresa júnior de engenharia da computação do estado do Paraná.
 
