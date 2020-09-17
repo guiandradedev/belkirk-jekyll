@@ -7,6 +7,5 @@ sub_heading: Responsável pela produção
 thumbnail: ''
 email: ''
 linkedin: ''
-published: false
 
 ---
