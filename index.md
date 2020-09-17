@@ -13,8 +13,8 @@ services:
   description: Desenvolvimento e adequação de máquinas, gabaritos e equipamentos
   icon: "/uploads/2020/08/13/robot.png"
 - heading: Usinagem, solda e reposição
-  description: Dimensionamento e usinagem de peças e componentes de precisão, torno
-    e fresadora CNC. Fabricação de peças sobressalentes
+  description: Dimensionamento e usinagem de peças e componentes de precisão. Fabricação
+    de peças sobressalentes
   icon: "/uploads/2020/08/13/lathe-machine.png"
 - heading: Modelagem CAD e mini-cursos
   description: Desenhos e projetos em 2D/3D, conversão de desenhos 2D para 3D
