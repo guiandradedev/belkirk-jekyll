@@ -36,6 +36,7 @@ fields:
   hidden: true
   default: person
 pages:
+- _people/cleber-rodrigues.md
 - _people/guilherme-andrade.md
 - _people/matheus-bazo.md
 - _people/ricardo-scandolo.md
