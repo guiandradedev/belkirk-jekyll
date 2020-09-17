@@ -2,7 +2,7 @@
 title: Início
 banner_image: "/uploads/2020/09/17/cnc-esi-solucoes.jpg"
 layout: landing-page
-heading: Dedicação, qualidade e bom atendimento são a nossa marca.
+heading: Qualidade e atendimento personalizado são a nossa marca.
 partners: []
 services:
 - heading: Consultoria
@@ -25,13 +25,13 @@ services:
 - heading: Instalações elétricas
   description: Painéis e instalações elétricas para máquinas e equipamentos industriais
   icon: "/uploads/2020/08/13/electrical-panel.png"
-sub_heading: Quer aumentar sua produtividade, reduzir paradas e desperdícios, e otimizar
-  seus lucros? Solicite um orçamento!
+sub_heading: Equipe à sua disposição de domingo à domingo, para garantir que sua produção
+  nunca pare. Nunca.
 textline: ''
 hero_button:
   text: Entrar em contato
   href: "/contact"
-show_news: true
+show_news: false
 show_staff: false
 menu:
   navigation:
