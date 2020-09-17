@@ -10,8 +10,7 @@ services:
     de processo
   icon: "/uploads/2020/08/15/agile.png"
 - heading: Máquinas e gabaritos
-  description: Máquinas, gabaritos e equipamentos exclusivos, conforme as necessidades
-    de cada cliente, com suporte profissional especializado
+  description: Desenvolvimento e adequaçao de máquinas, gabaritos e equipamentos
   icon: "/uploads/2020/08/13/robot.png"
 - heading: Usinagem, solda e reposição
   description: Dimensionamento e usinagem de peças e componentes de precisão, torno
