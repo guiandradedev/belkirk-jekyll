@@ -31,7 +31,7 @@ textline: ''
 hero_button:
   text: Entrar em contato
   href: "/contact"
-show_news: false
+show_news: true
 show_staff: false
 menu:
   navigation:
