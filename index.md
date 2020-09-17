@@ -12,7 +12,7 @@ services:
 - heading: Máquinas e gabaritos
   description: Desenvolvimento e adequação de máquinas, gabaritos e equipamentos
   icon: "/uploads/2020/08/13/robot.png"
-- heading: Usinagem, solda e reposição
+- heading: Usinagem e solda
   description: Dimensionamento e usinagem de peças e componentes de precisão. Fabricação
     de peças sobressalentes
   icon: "/uploads/2020/08/13/lathe-machine.png"
