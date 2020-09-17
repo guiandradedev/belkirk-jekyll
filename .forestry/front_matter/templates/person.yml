@@ -37,4 +37,5 @@ fields:
   default: person
 pages:
 - _people/guilherme-andrade.md
+- _people/matheus-bazo.md
 - _people/ricardo-scandolo.md
