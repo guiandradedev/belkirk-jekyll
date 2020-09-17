@@ -25,7 +25,7 @@ services:
 - heading: Instalações elétricas
   description: Painéis e instalações elétricas para máquinas e equipamentos industriais
   icon: "/uploads/2020/08/13/electrical-panel.png"
-sub_heading: Equipe de engenheiros e técnicos à sua disposição de domingo à domingo
+sub_heading: Equipe de engenheiros e técnicos à sua disposição, de domingo à domingo,
   para garantir que sua produção nunca pare. Nunca.
 textline: ''
 hero_button:
