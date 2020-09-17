@@ -39,6 +39,7 @@ menu:
     weight: 1
 
 ---
+.
 
 Nossa especialidade é a fabricação e adequação de máquinas, equipamentos, peças e acessórios.
 
