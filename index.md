@@ -1,6 +1,6 @@
 ---
 title: Início
-banner_image: "/uploads/2020/09/17/thisisengineering-raeng-wdce0t4khse-unsplash.jpg"
+banner_image: ''
 layout: landing-page
 heading: Qualidade e atendimento personalizado são a nossa marca.
 partners: []
