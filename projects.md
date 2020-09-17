@@ -21,8 +21,8 @@ menu:
     weight: 2
 
 ---
-Oferecemos um conjunto completo de soluções personalizadas para a realidade industrial de pequenas e médias empresas. Nossa missão é o atendimento pleno das necessidades dos clientes, oferecendo produtos de qualidade e atendimento personalizado.
+Oferecemos um conjunto de soluções para a realidade industrial de pequenas e médias empresas. Nossa missão é o atendimento pleno das necessidades dos clientes, oferecendo produtos de qualidade e atendimento personalizado.
 
 Trabalhamos com usinagem de precisão, solda, projetos e desenhos em CAD, produção e adequação de máquinas e equipamentos, fabricação de peças para reposição, proteções de máquinas e equipamentos conforme a norma NR-12.
 
-Se sua empresa deseja o melhor atendimento e qualidade de produto, então somos o parceiro ideal para você!
+Se você precisa de atendimento de qualidade e de confiança, então somos o parceiro ideal para você!
