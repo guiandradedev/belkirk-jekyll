@@ -27,7 +27,10 @@ services:
   icon: "/uploads/2020/08/13/electrical-panel.png"
 sub_heading: Equipe de engenheiros e técnicos à sua disposição de domingo à domingo
   para garantir que sua produção nunca pare. Nunca.
-textline: ''
+textline: |-
+  Nossa especialidade é a fabricação e adequação de máquinas, equipamentos, peças e acessórios.
+
+  Oferecemos **soluções completas para nossos clientes**, começando pela consultoria para levantamento de melhorias, passando pelo desenho/projeto de equipamentos e máquinas, construção, testes e instalação.
 hero_button:
   text: Entrar em contato
   href: "/contact"
