@@ -43,14 +43,10 @@ Por isso tudo, nossos valores são buscados, compartilhados e cultivados em tudo
 
 Prosperar e crescer quando exposto à volatilidade, desordem, risco e estresse. Ser resiliente não é o suficiente.
 
-**Honestidade**
-
-Agir com honestidade, integridade e transparência é a melhor opção para criar vínculos duradouros com clientes, colaboradores e fornecedores.
-
 **Responsabilidade**
 
 Temos o dever de arcar com as consequências das nossas ações e comportamentos.
 
-**Colaboração**
+**Trabalho em equipe**
 
-Colaborar é a ferramenta mais eficiente na resolução de qualquer problema.
+Colaborar e comunicar de forma eficiente são as melhores ferramentas para resolver qualquer problema.
