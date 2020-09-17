@@ -41,4 +41,4 @@ menu:
 ---
 Nossa especialidade é a fabricação e adequação de máquinas, equipamentos, peças e acessórios.
 
-Oferecemos **soluções completas para nossos clientes**, começando pela consultoria para levantamento de melhorias, passando pelo desenho/projeto de equipamentos e máquinas, construção, testes e instalação. 
+Oferecemos **soluções completas para nossos clientes**, começando pela consultoria para levantamento de melhorias, passando pelo desenho/projeto de equipamentos e máquinas, construção, testes e instalação.
