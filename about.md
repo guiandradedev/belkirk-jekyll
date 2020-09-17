@@ -2,8 +2,8 @@
 title: Sobre
 date: '2017-11-01T03:00:00.000+00:00'
 banner_image: ''
-heading: Quem somos, afinal?
-sub_heading: Equipe especializada para trabalhar por você, e muito mais!
+heading: Quem somos
+sub_heading: Por que somos diferentes?
 layout: landing-page
 textline: ''
 publish_date: '2017-12-01T04:00:00.000+00:00'
@@ -27,7 +27,7 @@ menu:
     weight: 2
 
 ---
-Não somos uma iniciativa de sócios e funcionários unicamente em busca de lucro. Somos muito mais que isso. Somos paixão, curiosidade, noites em claro, epifanias madrugais e alegria! Somos o arrepio ao ver nossas ideias mudando negócios, somos a força onipotente, incansável e esmagadora da determinação e persistência. Somos a ESI Soluções Industriais.
+Não somos uma iniciativa unicamente em busca de lucro. Somos mais que isso. Somos paixão, curiosidade, noites em claro, epifanias madrugais e alegria! Somos o arrepio ao ver nossas ideias mudando negócios, somos a força onipotente, incansável e esmagadora da determinação e persistência. Somos a ESI Soluções Industriais.
 
 Queremos, com clientes, colaboradores e fornecedores, construir um ecossistema de confiança, crescimento e prosperidade mútua. Queremos nossas famílias, amigos e comunidade se desenvolvendo junto com a gente, construindo um país melhor para as futuras gerações.
 
