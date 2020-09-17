@@ -1,8 +1,8 @@
 ---
 tags: []
-title: Usinagem, solda e peças de reposição
-sub_heading: Dimensionamento e usinagem de peças e componentes de precisão, torno
-  e fresadora CNC. Fabricação de peças sobressalentes
+title: Usinagem e solda
+sub_heading: Dimensionamento e usinagem de peças e componentes de precisão. Fabricação
+  de peças sobressalentes
 banner_image: "/uploads/2020/08/15/whatsapp-image-2020-08-13-at-22-17-03-1-copia.jpeg"
 slug: ''
 
