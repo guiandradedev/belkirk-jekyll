@@ -1,6 +1,6 @@
 ---
 title: Início
-banner_image: ''
+banner_image: "/uploads/2020/09/17/cnc-esi-solucoes-copy.jpg"
 layout: landing-page
 heading: Qualidade e atendimento personalizado são a nossa marca.
 partners: []
