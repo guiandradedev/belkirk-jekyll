@@ -1,6 +1,6 @@
 ---
 title: Início
-banner_image: "/uploads/2020/09/21/img_4624-copy.jpg"
+banner_image: "/uploads/2020/09/21/solda-cad-usinagem-precisao-esi-solucoes.jpg"
 layout: landing-page
 heading: Qualidade e atendimento personalizado são a nossa marca.
 partners: []
